@@ -8,4 +8,4 @@ server:
   port: 8080
 aggregation:
   temperature:
-    unit: "K"
+    unit: "C"
